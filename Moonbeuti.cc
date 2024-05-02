@@ -1,5 +1,5 @@
 local Library = loadstring(game:HttpGet("https://pastebin.com/raw/kpLzpNXc"))()
-local Window = Library:CreateWindow("Moonbeuti.cc", Vector2.new(300, 300), Enum.KeyCode.RightShift)
+local Window = Library:CreateWindow("Moonbeuti.cc", Vector2.new(492, 598), Enum.KeyCode.RightShift)
 local AimingTab = Window:CreateTab("Main")
 
 —tool
